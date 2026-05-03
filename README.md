@@ -7,4 +7,4 @@ This repo is created to record my learning progress and notes
 
 ## Day 2
 - Learned Git workflow
-- Practiced commit and push
+- Practiced commit and pushgit
