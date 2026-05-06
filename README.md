@@ -14,3 +14,10 @@ This repo is created to record my learning progress and notes
 - Used user input with `input()`
 - Applied conditional statements (if-elif-else)
 - Handled division by zero case
+
+## Day 4
+- Practiced loops and conditions
+- Solved 3 problems:
+  - Even/Odd checker
+  - Sum of numbers
+  - Multiplication table
