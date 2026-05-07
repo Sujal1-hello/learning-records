@@ -1,26 +1,64 @@
-==============================
-DAY 6 - OOP CONCEPTS NOTES
-==============================
+====================================
+DAY 6 - JAVA OOP CONCEPTS NOTES
+====================================
 
 1. Class
-- A blueprint for creating objects.
+- A class is a blueprint used to create objects.
+- It defines data members and methods.
+
+Real-life example:
+Car blueprint before manufacturing.
+
+------------------------------------
 
 2. Object
-- An instance of a class.
+- An object is an instance of a class.
+- Objects can access class properties and methods.
+
+Example:
+Student s1 = new Student();
+
+------------------------------------
 
 3. Encapsulation
-- Wrapping data and methods together.
+- Combining data and methods into a single unit.
+- Protects data using private access modifiers.
+
+Benefit:
+Improves data security.
+
+------------------------------------
 
 4. Inheritance
-- One class inherits another class properties.
+- Allows one class to inherit features from another class.
+- Helps reduce code duplication.
+
+Benefit:
+Code reusability.
+
+------------------------------------
 
 5. Polymorphism
-- Same method behaves differently.
+- One method can perform different tasks.
+- Achieved using method overloading and overriding.
+
+Benefit:
+Flexibility in programming.
+
+------------------------------------
 
 6. Abstraction
-- Hiding implementation details.
+- Hides unnecessary implementation details.
+- Shows only important information to users.
+
+Benefit:
+Reduces complexity.
+
+------------------------------------
 
 Advantages of OOP:
-- Reusability
-- Better organization
-- Easier maintenance
+✔ Better code organization
+✔ Easier maintenance
+✔ Reusable code
+✔ Improved security
+✔ Real-world modeling support
