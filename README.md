@@ -58,3 +58,4 @@ Created a Student class and used object to assign and display values.
 - Practice problem solving
 - Improve Git workflow
 - Upload every task to GitHub
+- Practiced daily Git commits to build discipline
