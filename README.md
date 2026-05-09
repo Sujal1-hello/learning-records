@@ -21,3 +21,39 @@ This repo is created to record my learning progress and notes
   - Even/Odd checker
   - Sum of numbers
   - Multiplication table
+
+## Day 5 - Java OOP Basics
+
+ --Topics Covered--
+- Class
+- Object
+- Methods
+- Object creation
+
+ Example:
+Created a Student class and used object to assign and display values.
+
+# Day 6 - OOP Concepts
+
+ Topics Covered
+- Class
+- Object
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+
+# Learning Progress
+
+## 🔹 Week 1: Java Basics & OOP
+✅ Java syntax  
+✅ Variables and data types  
+✅ If-else and loops  
+✅ Classes and objects  
+✅ OOP concepts  
+✅ Git and GitHub practice  
+
+## 🔹 Week 2: Mini Projects
+- Build small Java projects
+- Practice problem solving
+- Improve Git workflow
