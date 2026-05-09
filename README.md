@@ -57,3 +57,4 @@ Created a Student class and used object to assign and display values.
 - Build small Java projects
 - Practice problem solving
 - Improve Git workflow
+- Upload every task to GitHub
