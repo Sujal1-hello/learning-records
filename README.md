@@ -43,6 +43,14 @@ Created a Student class and used object to assign and display values.
 - Polymorphism
 - Abstraction
 
+# Day 7
+## GitHub and Coding Practice
+- Improved GitHub workflow
+- Practiced daily commits
+- Organized project files properly
+- Continued Python and Java practice
+
+
 # Learning Progress
 
 ## 🔹 Week 1: Java Basics & OOP
@@ -59,3 +67,24 @@ Created a Student class and used object to assign and display values.
 - Improve Git workflow
 - Upload every task to GitHub
 - Practiced daily Git commits to build discipline
+
+
+# Technologies Used
+- Python
+- Java
+- Git
+- GitHub
+
+---
+
+# Future Goals
+- Build advanced Python projects
+- Learn Data Structures & Algorithms
+- Improve Java OOP skills
+- Learn Database integration
+- Create full-stack projects
+
+---
+
+# Author
+Sujal
