@@ -50,6 +50,40 @@ Created a Student class and used object to assign and display values.
 - Organized project files properly
 - Continued Python and Java practice
 
+# Day 8 - Student Record System (Basic)
+
+## Project
+Created a basic Student Record Management System using Python.
+
+## Features
+- Menu-driven program
+- Stored student records using lists
+- Took user input for student details
+- Basic program structure setup
+
+## Skills Practiced
+- Python basics
+- Lists
+- Loops
+- Dictionaries
+- User input handling
+
+
+---
+# Day 9 - Added Student Features
+
+## Features Added
+- Add student feature
+- View student records feature
+- Function-based program structure
+- Improved code organization
+
+## Skills Practiced
+- Functions
+- Conditional statements
+- List and dictionary handling
+- Program structuring
+
 
 # Learning Progress
 

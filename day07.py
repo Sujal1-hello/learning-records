@@ -1,6 +1,36 @@
-# Student Record System (Basic)
+# Student Record System with Functions
 
 students = []
+
+
+def add_student():
+    name = input("Enter student name: ")
+    roll = input("Enter roll number: ")
+    marks = input("Enter marks: ")
+
+    student = {
+        "Name": name,
+        "Roll": roll,
+        "Marks": marks
+    }
+
+    students.append(student)
+
+    print("Student added successfully!")
+
+
+def view_students():
+    if len(students) == 0:
+        print("No student records found.")
+    else:
+        print("\n===== Student Records =====")
+
+        for student in students:
+            print(f"Name : {student['Name']}")
+            print(f"Roll : {student['Roll']}")
+            print(f"Marks: {student['Marks']}")
+            print("-------------------------")
+
 
 while True:
     print("\n===== Student Record System =====")
@@ -11,34 +41,14 @@ while True:
     choice = input("Enter your choice: ")
 
     if choice == "1":
-        name = input("Enter student name: ")
-        roll = input("Enter roll number: ")
-        marks = input("Enter marks: ")
-
-        student = {
-            "Name": name,
-            "Roll": roll,
-            "Marks": marks
-        }
-
-        students.append(student)
-
-        print("Student added successfully!")
+        add_student()
 
     elif choice == "2":
-        if len(students) == 0:
-            print("No student records found.")
-        else:
-            print("\n--- Student Records ---")
-            for student in students:
-                print(f"Name: {student['Name']}")
-                print(f"Roll: {student['Roll']}")
-                print(f"Marks: {student['Marks']}")
-                print("-----------------------")
+        view_students()
 
     elif choice == "3":
-        print("Exiting program...")
+        print("Program closed.")
         break
 
     else:
-        print("Invalid choice. Try again.")
+        print("Invalid choice.")
