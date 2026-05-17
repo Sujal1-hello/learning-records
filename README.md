@@ -96,16 +96,13 @@ Created a basic Student Record Management System using Python.
 ✅ Git and GitHub practice  
 
 ## 🔹 Week 2: Mini Projects
-- Build small Java projects
 - Practice problem solving
-- Improve Git workflow
 - Upload every task to GitHub
 - Practiced daily Git commits to build discipline
 
 
 # Technologies Used
 - Python
-- Java
 - Git
 - GitHub
 
